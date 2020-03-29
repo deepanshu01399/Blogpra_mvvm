@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blogpra</string>
+    <string name="toast">"unsuccessfull login"</string>
+</resources>
